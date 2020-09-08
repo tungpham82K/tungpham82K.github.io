@@ -13,7 +13,7 @@
 - [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
-- [Average](#media)
+- [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
